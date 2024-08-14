@@ -22,7 +22,7 @@ Sou um Engenheiro de Software em formação, atualmente cursando o segundo semes
 
 Tenho facilidade em conectar pessoas e impulsionar projetos, atuando como um elo entre diferentes equipes. Sempre busco maneiras de otimizar processos e me envolvo ativamente em projetos que me interessam, assumindo naturalmente papéis de liderança em iniciativas de melhoria.
 
-## Experiência profissional 
+## Experiência profissional `work history`
 
 ### General Manager - Laetus Gaming [04/2020 a 02/2021]
 
@@ -36,7 +36,7 @@ Na Laetus Gaming, tive meu primeiro contato profissional com o cenário de e-spo
 
 Como General Manager da organização alemã TheCartel Esports, fui responsável por liderar e coordenar todas as operações da equipe, incluindo a contratação e manutenção de talentos, o desenvolvimento de estratégias de jogo e a gestão de recursos financeiros. Durante minha gestão, a equipe conquistou diversos títulos e alcançou um alto desempenho competitivo, culminando na premiação como a melhor organização da América do Sul em 2021. Minhas responsabilidades também incluíram a criação e implementação de estratégias de marketing e comunicação para aumentar o engajamento da comunidade e expandir a marca da organização. Minha experiência na TheCartel Esports me proporcionou insights valiosos sobre liderança, gestão de equipes e operações no cenário competitivo de e-sports.
 
-## Projetos e Conquistas 
+## Projetos e Conquistas `achievements and recognition`
 
 ### Apple Vision
 
@@ -74,7 +74,7 @@ Fui participante do Challenge da FIAP, uma competição em parceria com a Mahind
 
 Participei do Global Solution da FIAP em parceria com a Voice of the Oceans, onde contribuí para soluções inovadoras voltadas para a preservação e proteção dos oceanos.
 
-## Formação acadêmica 
+## Formação acadêmica `education`
 
 ### Engenharia de Software - 03/2024 a 12/2027<br> FIAP
 
