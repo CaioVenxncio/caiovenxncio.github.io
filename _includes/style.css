@@ -7,26 +7,24 @@
 body {
     font-family: Arial, sans-serif;
     -webkit-print-color-adjust: exact;
-    display: block;
-    font-size: 10px; /* Reduzido para compactar o texto */
-    line-height: 1.2; /* Ajustado para otimizar o espaço */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 main {
-    width: 100%;
-    max-width: initial; /* Remove o limite de largura */
+    max-width: 794px;
     margin: 0;
-    padding: 10px; /* Pequeno preenchimento para evitar bordas cortadas */
 }
 
 code {
     display: block;
-    font-size: 0.8em; /* Ajustado para ser menor */
+    font-size: 0.5px;
     color: white;
 }
 
 p {
-    font-size: 85%; /* Ajustado para caber melhor na página */
+    font-size: 85%;
     text-align: justify;
 }
 
@@ -45,13 +43,10 @@ ul {
     flex-wrap: wrap;
     list-style: none;
     justify-content: space-between;
-    margin: 0;
-    padding: 0;
 }
 
 li {
-    display: inline; /* Itens em linha para economizar espaço */
-    margin: 0;
+    display: inline-block;
 }
 
 h1 {
@@ -66,7 +61,6 @@ h2 {
     color: white;
     background-color: #222;
     padding: 2px;
-    margin: 0;
 }
 
 h2 code {
@@ -75,7 +69,6 @@ h2 code {
 
 h3 {
     font-size: 90%;
-    margin: 0; /* Removido para compactar o layout */
 }
 
 @media (max-width: 794px) {
@@ -90,22 +83,13 @@ h3 {
 @media print {
     body {
         display: block;
-        font-size: 10px; /* Ajustado para impressão */
     }
     main {
-        width: 100%;
+        max-width: initial;
         margin: 0;
-        padding: 10px;
     }
     ul {
-        flex-direction: row; /* Mantém os itens em linha */
+        flex-direction: row;
     }
-    h1, h2, h3, p, code {
-        margin: 0; /* Removido para economizar espaço */
-        padding: 0;
-    }
-    .header, .footer {
-        display: none; /* Oculta cabeçalhos e rodapés, se existirem */
-    }
-}
+}   
 
