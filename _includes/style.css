@@ -7,24 +7,26 @@
 body {
     font-family: Arial, sans-serif;
     -webkit-print-color-adjust: exact;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: block;
+    font-size: 10px; /* Reduzido para compactar o texto */
+    line-height: 1.2; /* Ajustado para otimizar o espaço */
 }
 
 main {
-    max-width: 794px;
+    width: 100%;
+    max-width: initial; /* Remove o limite de largura */
     margin: 0;
+    padding: 10px; /* Pequeno preenchimento para evitar bordas cortadas */
 }
 
 code {
     display: block;
-    font-size: 0.5px;
+    font-size: 0.8em; /* Ajustado para ser menor */
     color: white;
 }
 
 p {
-    font-size: 85%;
+    font-size: 85%; /* Ajustado para caber melhor na página */
     text-align: justify;
 }
 
@@ -43,10 +45,13 @@ ul {
     flex-wrap: wrap;
     list-style: none;
     justify-content: space-between;
+    margin: 0;
+    padding: 0;
 }
 
 li {
-    display: inline-block;
+    display: inline; /* Itens em linha para economizar espaço */
+    margin: 0;
 }
 
 h1 {
@@ -61,6 +66,7 @@ h2 {
     color: white;
     background-color: #222;
     padding: 2px;
+    margin: 0;
 }
 
 h2 code {
@@ -69,6 +75,7 @@ h2 code {
 
 h3 {
     font-size: 90%;
+    margin: 0; /* Removido para compactar o layout */
 }
 
 @media (max-width: 794px) {
@@ -83,12 +90,22 @@ h3 {
 @media print {
     body {
         display: block;
+        font-size: 10px; /* Ajustado para impressão */
     }
     main {
-        max-width: initial;
+        width: 100%;
         margin: 0;
+        padding: 10px;
     }
     ul {
-        flex-direction: row;
+        flex-direction: row; /* Mantém os itens em linha */
     }
-}   
+    h1, h2, h3, p, code {
+        margin: 0; /* Removido para economizar espaço */
+        padding: 0;
+    }
+    .header, .footer {
+        display: none; /* Oculta cabeçalhos e rodapés, se existirem */
+    }
+}
+
