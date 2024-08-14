@@ -22,7 +22,7 @@ Sou um Engenheiro de Software em formação, atualmente cursando o segundo semes
 
 Tenho facilidade em conectar pessoas e impulsionar projetos, atuando como um elo entre diferentes equipes. Sempre busco maneiras de otimizar processos e me envolvo ativamente em projetos que me interessam, assumindo naturalmente papéis de liderança em iniciativas de melhoria.
 
-## Experiência profissional `work history`
+## Experiência profissional 
 
 ### General Manager - Laetus Gaming [04/2020 a 02/2021]
 
@@ -36,31 +36,31 @@ Na Laetus Gaming, tive meu primeiro contato profissional com o cenário de e-spo
 
 Como General Manager da organização alemã TheCartel Esports, fui responsável por liderar e coordenar todas as operações da equipe, incluindo a contratação e manutenção de talentos, o desenvolvimento de estratégias de jogo e a gestão de recursos financeiros. Durante minha gestão, a equipe conquistou diversos títulos e alcançou um alto desempenho competitivo, culminando na premiação como a melhor organização da América do Sul em 2021. Minhas responsabilidades também incluíram a criação e implementação de estratégias de marketing e comunicação para aumentar o engajamento da comunidade e expandir a marca da organização. Minha experiência na TheCartel Esports me proporcionou insights valiosos sobre liderança, gestão de equipes e operações no cenário competitivo de e-sports.
 
-## Projetos e Conquistas `achievements and recognition`
+## Projetos e Conquistas 
 
 ### Apple Vision
 
 > Desenvolvi um clone do site da Apple para o Apple Vision Pro, utilizando HTML5, CSS3 e JavaScript, com informações sobre o produto, especificações técnicas, depoimentos e um formulário de contato.
 
-Desenvolvi um clone do site da Apple para o [Apple Vision](https://github.com/CaioVenxncio/applevisionproclone) Pro como parte do meu aprendizado em desenvolvimento web, utilizando HTML5, CSS3 e JavaScript. O projeto inclui uma página inicial com informações sobre o produto, uma seção de especificações técnicas, depoimentos de usuários e um formulário de contato. Para executar o projeto, clone o repositório e abra o arquivo index.html em um navegador web.
+Desenvolvi um clone do site da Apple para o [Apple Vision](https://caiovenxncio.github.io/applevisionproclone/) Pro como parte do meu aprendizado em desenvolvimento web, utilizando HTML5, CSS3 e JavaScript. O projeto inclui uma página inicial com informações sobre o produto, uma seção de especificações técnicas, depoimentos de usuários e um formulário de contato. Para executar o projeto, clone o repositório e abra o arquivo index.html em um navegador web.
 
 ### Clone da Página Inicial da Amazon
 
 > Desenvolvi um clone estático da página inicial da Amazon usando HTML5 e CSS3, recriando fielmente o layout, cores e tipografia, com um design responsivo que se adapta a diferentes tamanhos de tela.
 
-Este projeto consiste em um clone estático da página inicial da [Amazon](https://github.com/CaioVenxncio/amazonhomepage), desenvolvido com HTML5 e CSS3. O objetivo foi praticar e aprimorar habilidades em desenvolvimento web front-end, recriando com precisão a aparência visual da página, incluindo layout, cores, tipografia e elementos gráficos. O design é responsivo, garantindo uma experiência de usuário consistente em dispositivos móveis e desktop.
+Este projeto consiste em um clone estático da página inicial da [Amazon](https://caiovenxncio.github.io/amazonhomepage/), desenvolvido com HTML5 e CSS3. O objetivo foi praticar e aprimorar habilidades em desenvolvimento web front-end, recriando com precisão a aparência visual da página, incluindo layout, cores, tipografia e elementos gráficos. O design é responsivo, garantindo uma experiência de usuário consistente em dispositivos móveis e desktop.
 
 ### Aplicativo de Previsão do Tempo
 
 > Criei uma aplicação web que fornece previsões meteorológicas em tempo real, incluindo temperatura, umidade, velocidade do vento e ícones climáticos dinâmicos.
 
-Desenvolvi uma aplicação web de [previsão do tempo](https://github.com/CaioVenxncio/weatherapp) que permite aos usuários inserir o nome de uma cidade para obter informações meteorológicas em tempo real. A aplicação exibe dados como temperatura, umidade e velocidade do vento, e utiliza ícones de clima dinâmicos que se ajustam conforme a condição climática atual. Utilizei HTML, CSS e JavaScript para criar um design responsivo e moderno.
+Desenvolvi uma aplicação web de [previsão do tempo](https://caiovenxncio.github.io/weatherapp/) que permite aos usuários inserir o nome de uma cidade para obter informações meteorológicas em tempo real. A aplicação exibe dados como temperatura, umidade e velocidade do vento, e utiliza ícones de clima dinâmicos que se ajustam conforme a condição climática atual. Utilizei HTML, CSS e JavaScript para criar um design responsivo e moderno.
 
 ### Music Player Web
 
 > Desenvolvi um Music Player com HTML, CSS e JavaScript, oferecendo reprodução de músicas em MP3, controles dinâmicos e uma interface responsiva.
 
-Desenvolvi um [Music Player](https://github.com/CaioVenxncio/musicplayer) usando HTML, CSS e JavaScript, criando uma interface intuitiva e dinâmica para uma experiência de audição agradável. O player suporta reprodução de músicas em formato MP3 e inclui controles para play, pause e avanço/retrocesso, além de uma barra de progresso para acompanhar o tempo da música. A interface é responsiva, adaptando-se a diferentes tamanhos de tela, e utiliza Font Awesome para ícones.
+Desenvolvi um [Music Player](https://caiovenxncio.github.io/musicplayer/) usando HTML, CSS e JavaScript, criando uma interface intuitiva e dinâmica para uma experiência de audição agradável. O player suporta reprodução de músicas em formato MP3 e inclui controles para play, pause e avanço/retrocesso, além de uma barra de progresso para acompanhar o tempo da música. A interface é responsiva, adaptando-se a diferentes tamanhos de tela, e utiliza Font Awesome para ícones.
 
 ### Participante do Challenge da FIAP em Parceria com a Mahindra Racing
 
@@ -74,8 +74,8 @@ Fui participante do Challenge da FIAP, uma competição em parceria com a Mahind
 
 Participei do Global Solution da FIAP em parceria com a Voice of the Oceans, onde contribuí para soluções inovadoras voltadas para a preservação e proteção dos oceanos.
 
-## Formação acadêmica `education`
+## Formação acadêmica 
 
 ### Engenharia de Software - 03/2024 a 12/2027<br> FIAP
 
-Desenvolvimento de Software, Arquitetura, Programação, Sistemas, Tecnologia.
+Desenvolvimento de Software, Arquitetura, Programação, Sistemas e Tecnologia.
